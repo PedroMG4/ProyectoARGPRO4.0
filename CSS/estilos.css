@@ -1,0 +1,32 @@
+nav{
+    text-align: center;
+}
+button {
+    cursor:pointer;
+    background-color: lightblue;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 22px;
+}
+body{
+    background-image: url(https://img.freepik.com/vector-gratis/fondo-escritorio-geometrico-vector-diseno-abstracto-blanco_53876-144666.jpg);
+    background-size: cover;
+    font-family: 'Roboto', sans-serif;
+}
+p{
+    margin-left: 10%;
+}
+h2{
+    margin-left: 15%;
+}
+h1{
+    text-align: center;
+}
+img {
+    float: right;
+    margin-right: 17%;
+  }
